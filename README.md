@@ -62,4 +62,5 @@ Here are some ideas to get you started:
 -->
 
 <!--</div>-->
+##
 <img src="https://capsule-render.vercel.app/api?type=slice&color=d9b3ff&height=50&section=footer" />
