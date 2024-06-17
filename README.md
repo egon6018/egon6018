@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d9b3ff&height=150&section=header"/> <!--&text=Hello%20I'm%20Goeun&fontSize=30&fontColor=ffffff"-->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=d9b3ff&height=50&section=header"/> <!--&text=Hello%20I'm%20Goeun&fontSize=30&fontColor=ffffff"-->
 
 <!--<div align=center>-->
 
@@ -22,6 +22,7 @@
 
 :pencil2: Studying
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
 ![jsp](https://img.shields.io/badge/JSP-ff9933?style=for-the-badge&logo=jsp&logoColor=white) <br/>
@@ -61,4 +62,4 @@ Here are some ideas to get you started:
 -->
 
 <!--</div>-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d9b3ff&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=d9b3ff&height=50&section=footer" />
