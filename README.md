@@ -16,7 +16,7 @@
 ![SQLD](https://img.shields.io/badge/SQLD-ffcc00?style=for-the-badge)
 ![산업안전기사](https://img.shields.io/badge/산업안전기사-ffff80?style=for-the-badge)
 
-:memo: BLOG
+:memo: Blog
 
 <a href="https://blog.naver.com/gonrong99"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
