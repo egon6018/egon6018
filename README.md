@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=012D74&height=150&section=header"/>   <!-- &text=Hello%20I'm%20Goeun%20:rabbit:&fontSize=30&fontColor=ffffff" -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=012D74&height=100&section=header"/>   <!-- &text=Hello%20I'm%20Goeun%20:rabbit:&fontSize=30&fontColor=ffffff" -->
 
 <!--<div align=center>-->
 
@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 
 <!--</div>-->
 ##
-<img src="https://capsule-render.vercel.app/api?type=waving&color=012D74&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=012D74&height=100&section=footer" />
